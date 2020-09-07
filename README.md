@@ -1,4 +1,5 @@
-# industry_standard
+# SL Industry Standard
+Authors: Soullinks and Juvenius Drakonius
 
 This file is use in conjuction with web app https://app.diagrams.net/. Import the code like this:
 
