@@ -3,7 +3,7 @@
 This file is use in conjuction with web app https://app.diagrams.net/. Import the code like this:
 
 
-
+![how_to_import](https://raw.githubusercontent.com/Novean-Institute-of-Standards/industry_standard/master/how_to_import.png)
 
 
 
